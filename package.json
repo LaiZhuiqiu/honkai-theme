@@ -1,0 +1,21 @@
+{
+  "name": "honkai-theme",
+  "displayName": "Honkai Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Honkai Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Honkai Theme-color-theme.json"
+      }
+    ]
+  }
+}
